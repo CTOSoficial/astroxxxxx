@@ -1,0 +1,10 @@
+{
+  "name": "aether-digital",
+  "version": "1.0.0",
+  "description": "Aether Digital game store",
+  "type": "module",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
